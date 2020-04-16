@@ -20,6 +20,17 @@
 
 # 회사 프로젝트
 
+### 투비시스
+#### 삼성영어 DEMO
+
+<img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_intro.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_main.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_side.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_main.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_1.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_complete.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_2.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_3.png" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_4.png" width="160"/>
+
+* 개발기간 : 2018.01 ~ 2018.02
+* 내   용 : 삼성 영어학습 데모앱 개발
+* 사용언어 : Java / Xml
+* 영어학습 앱 개발 전 사업 설명 시연용 앱 개발
+
+
 ### 에이브앱
 #### 캐릭콘
 
