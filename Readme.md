@@ -23,7 +23,7 @@
 ### 에이브앱
 #### 캐릭콘
 
-<img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_1.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_2.png" width="160"/> <img src="ᄋ%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_3.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_4.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_5.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_6.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_7.png" width="160"/>
+<img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_1.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_2.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_3.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_4.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_5.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_6.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_7.png" width="160"/>
 
 * 개발기간 : 2017.04 ~ 2017.04
 * 내   용 : 기존의 앱 리뉴얼
