@@ -20,6 +20,36 @@
 
 # 회사 프로젝트
 
+### 딜라이브
+#### 무비 ON
+
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_main.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_episode.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase_dialog.png" width="160"/>
+
+* 개발기간 : 2020.03 ~ 2020.04
+* 내   용 : 유료영화 앱 개발
+* 사용언어 : Java / Xml
+* 자사 Android TV 셋탑용 유료영화 결제 및 
+
+#### 맛있는 녀석들
+
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_main.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_episode.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_clip.png" width="160"/>
+
+* 개발기간 : 2019.04 ~ 2019.04
+* 내   용 : 맛있는 녀석들 앱 개발
+* 사용언어 : Java / Xml
+* 자사 Android TV 셋탑용 맛있는 녀석들 컨텐츠 및 실시간 방송 시청
+
+
+#### Android TV향 셋탑박스 런처
+
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_main.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_favorite.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_ranking.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_download.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_notice.PNG" width="160"/>
+
+* 개발기간 : 2018.07 ~ 2018.10
+* 내   용 : 런처 앱 개발
+* 사용언어 : Java / Xml
+* 자사 Android TV 셋탑용 런처
+
+
 ### 투비시스
 #### 삼성영어 DEMO
 
