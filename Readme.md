@@ -8,7 +8,7 @@
 
 # 개인 프로젝트
 
-#### Boim
+### Boim
 
 <img src="%EA%B0%9C%EC%9D%B8/boim_intro.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_main.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_editcomment.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_side.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_bgmstory.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_carddeck.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_cardpick.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_taroting.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_showornoshow.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_tarotresult.png" width="160"/>
 
@@ -18,7 +18,7 @@
 * 외주 요청으로 타로 앱 무료버전, 유료버전 개발
 
 
-#### 프로토 타입
+### 프로토 타입
 
 <img src="%EA%B0%9C%EC%9D%B8/proto.png" width="160"/>
 
