@@ -23,7 +23,7 @@
 ### 딜라이브
 #### 무비 ON
 
-<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_main.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_episode.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase_dialog.png" width="160"/>
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_main.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_episode.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase_dialog.png" width="240"/>
 
 * 개발기간 : 2020.03 ~ 2020.04
 * 내   용 : 유료영화 앱 개발
@@ -32,7 +32,7 @@
 
 #### 맛있는 녀석들
 
-<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_main.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_episode.png" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_clip.png" width="160"/>
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_main.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_episode.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_tastyguys_clip.png" width="240"/>
 
 * 개발기간 : 2019.04 ~ 2019.04
 * 내   용 : 맛있는 녀석들 앱 개발
@@ -42,7 +42,7 @@
 
 #### Android TV향 셋탑박스 런처
 
-<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_main.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_favorite.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_ranking.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_download.PNG" width="160"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_notice.PNG" width="160"/>
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_main.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_favorite.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_ranking.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_download.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_notice.PNG" width="240"/>
 
 * 개발기간 : 2018.07 ~ 2018.10
 * 내   용 : 런처 앱 개발
@@ -107,10 +107,10 @@
 
 #### 스마트 무무
 
-<img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_1.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_2.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_3.png" width="160"/>
-<img src="%EB%AC%B4%EB%AC%B4/moumou_words_1.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_2.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_3.png" width="160"/>
-<img src="%EB%AC%B4%EB%AC%B4/moumou_words_4.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_5.png" width="160"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_6.png" width="160"/>
-<img src="%EB%AC%B4%EB%AC%B4/moumou_words_7.png" width="160"/>
+<img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_1.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_2.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_ebook_3.png" width="240"/>
+<img src="%EB%AC%B4%EB%AC%B4/moumou_words_1.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_2.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_3.png" width="240"/>
+<img src="%EB%AC%B4%EB%AC%B4/moumou_words_4.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_5.png" width="240"/> <img src="%EB%AC%B4%EB%AC%B4/moumou_words_6.png" width="240"/>
+<img src="%EB%AC%B4%EB%AC%B4/moumou_words_7.png" width="240"/>
 
 * 개발기간 : 2015.10 ~ 2016.03
 * 내   용 : e-book 학습결과 확인 및 리뷰 남기기 / 단어학습 결과확인 개발
