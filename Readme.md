@@ -8,6 +8,16 @@
 
 # 개인 프로젝트
 
+#### Boim
+
+<img src="%EA%B0%9C%EC%9D%B8/boim_intro.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_main.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_editcomment.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_side.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_bgmstory.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_carddeck.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_cardpick.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_taroting.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_showornoshow.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_tarotresult.png" width="160"/>
+
+* 개발기간 : 2018.11 ~ 2018.12
+* 내   용 : 타로 앱 개발
+* 사용언어 : Java / Xml
+* 외주 요청으로 타로 앱 무료버전, 유료버전 개발
+
+
 #### 프로토 타입
 
 <img src="%EA%B0%9C%EC%9D%B8/proto.png" width="160"/>
@@ -28,7 +38,7 @@
 * 개발기간 : 2020.03 ~ 2020.04
 * 내   용 : 유료영화 앱 개발
 * 사용언어 : Java / Xml
-* 자사 Android TV 셋탑용 유료영화 결제 및 
+* 자사 Android TV 셋탑용 유료영화 결제 및 시청
 
 #### 맛있는 녀석들
 
