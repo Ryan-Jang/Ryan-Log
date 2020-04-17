@@ -54,7 +54,7 @@
 
 <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_main.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_favorite.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_ranking.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_download.PNG" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_launcher_notice.PNG" width="240"/>
 
-* 개발기간 : 2018.07 ~ 2018.10
+* 개발기간 : 2018.08 ~ 2018.11
 * 내   용 : 런처 앱 개발
 * 사용언어 : Java / Xml
 * 자사 Android TV 셋탑용 런처
