@@ -31,6 +31,15 @@
 # 회사 프로젝트
 
 ### 딜라이브
+#### OVP 교체
+
+<img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_ovpframework_player.png" width="240"/>
+
+* 개발기간 : 2021.03 ~ 2021.06
+* 내   용 : 자사 서비스용 라이브러리 개발
+* 사용언어 : Java / Xml
+* 자사 서비스 내 공통 코드 라이브러리 및 신규 OVP 연동 라이브러리 개발
+
 #### 무비 ON
 
 <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_main.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_episode.png" width="240"/> <img src="%EB%94%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C/dlive_movieon_purchase_dialog.png" width="240"/>
