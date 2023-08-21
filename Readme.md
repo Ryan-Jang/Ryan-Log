@@ -2,19 +2,7 @@
 
 ### 총 경력 : 2014.10 ~ 
 
-# 개인 프로젝트
-
-### Boim
-
-<img src="%EA%B0%9C%EC%9D%B8/boim_intro.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_main.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_editcomment.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_side.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_bgmstory.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_carddeck.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_cardpick.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_taroting.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_showornoshow.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_tarotresult.png" width="160"/>
-
-* 개발기간 : 2018.11 ~ 2018.12
-* 내   용 : 타로 앱 개발
-* 사용언어 : Java / Xml
-* 외주 프로젝트로 타로 앱 무료버전, 유료버전 개발
-
-
-# 회사 프로젝트
+# 프로젝트
 
 ### 모비두
 #### Santote
@@ -23,7 +11,8 @@
 
 * 개발기간 : 2023.01 ~ 2023.03
 * 내   용 : 산투테 앱 개발
-* 사용언어 : Kotlin / Xml
+* 프레임워크 : Android
+* 사용기술 : Koin, Coroutine, Glide, Retrofit2, Exoplayer 등
 * 신선한 식품을 산지에서 테이블까지 라는 모토로 농가 소개 및 농산물 판매 서비스
 
 ### 딜라이브
@@ -33,7 +22,8 @@
 
 * 개발기간 : 2021.03 ~ 2021.06
 * 내   용 : 자사 서비스용 라이브러리 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 자사 서비스 내 공통 코드 라이브러리 및 신규 OVP 연동 라이브러리 개발
 
 #### 무비 ON
@@ -42,7 +32,8 @@
 
 * 개발기간 : 2020.03 ~ 2020.04
 * 내   용 : 유료영화 앱 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, Retrofit2, Exoplayer, 3rd-party 본인인증 등
 * 자사 Android TV 셋탑용 유료영화 결제 및 시청
 
 #### 맛있는 녀석들
@@ -51,7 +42,8 @@
 
 * 개발기간 : 2019.04 ~ 2019.04
 * 내   용 : 맛있는 녀석들 앱 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 자사 Android TV 셋탑용 맛있는 녀석들 컨텐츠 및 실시간 방송 시청
 
 
@@ -61,8 +53,20 @@
 
 * 개발기간 : 2018.08 ~ 2018.11
 * 내   용 : 런처 앱 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, Retrofit2, SQLite 등
 * 자사 Android TV 셋탑용 런처
+
+### 개인 외주
+#### Boim 타로
+
+<img src="%EA%B0%9C%EC%9D%B8/boim_intro.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_main.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_editcomment.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_side.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_bgmstory.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_carddeck.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_cardpick.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_taroting.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_showornoshow.png" width="160"/> <img src="%EA%B0%9C%EC%9D%B8/boim_tarotresult.png" width="160"/>
+
+* 개발기간 : 2018.11 ~ 2018.12
+* 내   용 : 타로 앱 개발
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
+* 외주 프로젝트로 타로 앱 무료버전, 유료버전 개발
 
 
 ### 투비시스
@@ -72,7 +76,8 @@
 
 * 개발기간 : 2018.01 ~ 2018.02
 * 내   용 : 삼성 영어학습 데모앱 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Glide, FCM, GRPC, Exoplayer 등
 * 영어학습 앱 개발 전 사업 설명 시연용 앱 개발
 
 
@@ -82,8 +87,9 @@
 <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_1.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_2.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_3.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_4.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_5.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_6.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/charac_7.png" width="160"/>
 
 * 개발기간 : 2017.04 ~ 2017.04
-* 내   용 : 기존의 앱 리뉴얼
-* 사용언어 : Java / Xml
+* 내   용 : 기존 앱 채팅 리뉴얼
+* 프레임워크 : Android
+* 사용기술 : Socket, Glide, FCM, Retrofit2, SQLite 등
 * 아기자기한 캐릭터를 주축으로 사용자끼리 소통 할 수 있는 메신저 앱
 
 
@@ -93,7 +99,8 @@
 
 * 개발기간 : 2016.12 ~ 2017.03
 * 내   용 : 메신저 앱 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Socket, Glide, FCM, Retrofit2, SQLite 등
 * 주식 시장 종사자 및 관련자들을 위한 익명성 보장의 메신저 앱
 
 
@@ -104,8 +111,9 @@
 
 * 개발기간 : 2016.08 ~ 2016.08
 * 내   용 : 기존 웹 서비스를 이용한 하이브리드 앱
-* 사용언어 : Java / Xml
-* 기존 채팅 서비스를 모바일 앱으로 사용하게 하기 위한 앱
+* 프레임워크 : Android, iOS
+* 사용기술 : Volley, UniversialImageLoader, FCM, In-App purchase 등
+* 기존 채팅 서비스를 모바일 앱으로 사용하게 하기 위한 MVP 앱
 
 
 ### 잉글리쉬 무무
@@ -116,7 +124,8 @@
 
 * 개발기간 : 2016.04 ~ 2016.05
 * 내   용 : 자녀의 단어학습결과 확인 / 월말평가 리포트 확인 / 회원가입 개발
-* 사용언어 : Java / Xml
+* 프레임워크 : Android
+* 사용기술 : Volley, UniversialImageLoader, SQLite 등
 * 학생들이 스마트 무무로 학습한 결과 및 출결등에 대해서 학부모가 확인하고 관리 할 수 있는 앱
 
 
@@ -129,5 +138,6 @@
 
 * 개발기간 : 2015.10 ~ 2016.03
 * 내   용 : e-book 학습결과 확인 및 리뷰 남기기 / 단어학습 결과확인 개발
-* 사용언어 : Java / Xml
-* 스마트 알파 기능 + 기존 종이 교재중 일부를 앱으로 학습 할 수 있도록 개발
+* 프레임워크 : Android
+* 사용기술 : Volley, UniversialImageLoader, SQLite 등
+* 종이 교재중 일부를 앱으로 심화학습, 단어 및 e-book 학습을 할 수 있도록 하는 앱
