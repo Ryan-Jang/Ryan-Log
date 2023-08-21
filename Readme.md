@@ -19,7 +19,7 @@
 ### 모비두
 #### Santote
 
-<img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_home" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_shop" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_shorts" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_my" width="160"/>
+<img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_home" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_shop" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_shorts" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_my" width="160"/>
 
 * 개발기간 : 2023.01 ~ 2023.03
 * 내   용 : 산투테 앱 개발
