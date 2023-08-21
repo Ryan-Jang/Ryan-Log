@@ -1,6 +1,6 @@
 # 경력
 
-### 총 경력 : 2014.10 ~ (10년차)
+### 총 경력 : 2014.10 ~ 
 
 # 개인 프로젝트
 
@@ -15,6 +15,16 @@
 
 
 # 회사 프로젝트
+
+### 모비두
+#### Santote
+
+<img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_home" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_shop" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_shorts" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/santote_my" width="160"/>
+
+* 개발기간 : 2023.01 ~ 2023.03
+* 내   용 : 산투테 앱 개발
+* 사용언어 : Kotlin / Xml
+* 신선한 식품을 산지에서 테이블까지 라는 모토로 농가 소개 및 농산물 판매 서비스
 
 ### 딜라이브
 #### OVP 교체
