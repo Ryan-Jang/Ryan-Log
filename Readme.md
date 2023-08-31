@@ -5,7 +5,7 @@
 # 프로젝트
 
 ### 모비두
-#### Santote
+#### Santote(서비스 종료)
 
 <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_home.jpeg" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_shop.jpeg" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_shorts.jpeg" width="160"/> <img src="%EB%AA%A8%EB%B9%84%EB%91%90/Santote_my.jpeg" width="160"/>
 
@@ -57,7 +57,7 @@
 
 * 개발기간 : 2021.03 ~ 2021.06
 * 내   용 : 자사 서비스용 라이브러리 개발 및 신규 OVP 개발 외주 관리
-* 프레임워크 : Android
+* 프레임워크 : Android TV
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 자사 서비스 내 공통 코드 라이브러리 및 신규 OVP 연동 라이브러리 개발
 
@@ -82,7 +82,7 @@
 
 * 개발기간 : 2020.03 ~ 2020.04
 * 내   용 : 유료영화 앱 개발
-* 프레임워크 : Android
+* 프레임워크 : Android TV
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer, 3rd-party 본인인증 등
 * 자사 Android TV 셋탑용 유료영화 결제 및 시청
 
@@ -172,7 +172,7 @@
 
 
 ### 투비시스
-#### 삼성영어 DEMO
+#### 삼성영어 DEMO(서비스 종료)
 
 <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_intro.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_main.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_side.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_main.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_1.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_complete.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_2.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_3.PNG" width="160"/> <img src="%ED%88%AC%EB%B9%84%EC%8B%9C%EC%8A%A4/minslab_english_study_result_4.PNG" width="160"/>
 
@@ -221,7 +221,7 @@
 - 채팅방 알람 및 알람 설정 기능
 
 
-#### 망고바나나
+#### 망고바나나(서비스 종료)
 
 <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_1.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_2.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_3.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_4.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_5.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_6.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_7.png" width="160"/> <img src="%EC%97%90%EC%9D%B4%EB%B8%8C%EC%95%B1/mango_8.png" width="160"/>
 
@@ -244,7 +244,7 @@
 
 
 ### 와이오유 커뮤니케이션즈
-#### 사랑과전쟁
+#### 사랑과전쟁(서비스 종료)
 
 <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_1.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_2.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_3.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_4.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_5.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_6.png" width="160"/> <img src="%EC%82%AC%EB%9E%91%EA%B3%BC%EC%A0%84%EC%9F%81/lovewar_7.png" width="160"/>
 
