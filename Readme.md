@@ -12,7 +12,7 @@
 * 개발기간 : 2023.01 ~ 2023.03
 * 내   용 : 산투테 앱 개발
 * 프레임워크 : Android
-* 사용기술 : Koin, Coroutine, Glide, Retrofit2, Exoplayer 등
+* 사용기술 : Koin, Coroutine, Jetpack, Glide, Retrofit2, Exoplayer 등
 * 신선한 식품을 산지에서 테이블까지 라는 모토로 농가 소개 및 농산물 판매 서비스
 
 프로젝트 환경 - Mac, Android Studio, Git, Jira, Confluence  
