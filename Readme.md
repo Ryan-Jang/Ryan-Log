@@ -154,9 +154,9 @@
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 외주 프로젝트로 타로 앱 무료버전, 유료버전 개발
 
-프로젝트 환경 - Mac, Android Studio, Git, Trello
-팀원 - 2인
-담당 업무 - 구조 설계, 개발, 리드
+프로젝트 환경 - Mac, Android Studio, Git, Trello  
+팀원 - 2인  
+담당 업무 - 구조 설계, 개발, 리드  
 기여도 - 80%
 
 아키텍쳐 패턴 - MVC
@@ -182,9 +182,9 @@
 * 사용기술 : Glide, FCM, GRPC, Exoplayer 등
 * 영어학습 앱 개발 전 사업 설명 시연용 앱 개발
 
-프로젝트 환경 - Mac, Android Studio, Git
-팀원 - 2인
-담당 업무 - 구조 설계, 개발
+프로젝트 환경 - Mac, Android Studio, Git  
+팀원 - 2인  
+담당 업무 - 구조 설계, 개발  
 기여도 - 80%
 
 아키텍쳐 패턴 - MVC
@@ -208,9 +208,9 @@
 * 사용기술 : Socket, Glide, FCM, Retrofit2, SQLite 등
 * 아기자기한 캐릭터를 주축으로 사용자끼리 소통 할 수 있는 메신저 앱
 
-프로젝트 환경 - Mac, Android Studio, Git, Redmine
-팀원 - 1인
-담당 업무 - 신규기능 개발, 유지보수
+프로젝트 환경 - Mac, Android Studio, Git, Redmine  
+팀원 - 1인  
+담당 업무 - 신규기능 개발, 유지보수  
 기여도 - 100%
 
 주요 내용
@@ -231,9 +231,9 @@
 * 사용기술 : Socket, Glide, FCM, Retrofit2, SQLite 등
 * 주식 시장 종사자 및 관련자들을 위한 익명성 보장의 메신저 앱
 
-프로젝트 환경 - Mac, Android Studio, Git, Redmine
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
+프로젝트 환경 - Mac, Android Studio, Git, Redmine  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
 기여도 - 100%
 
 주요 내용
@@ -254,9 +254,9 @@
 * 사용기술 : Volley, UniversialImageLoader, FCM, In-App purchase 등
 * 기존 채팅 서비스를 모바일 앱으로 사용하게 하기 위한 MVP 앱
 
-프로젝트 환경 - Windows, Android Studio, Svn
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
+프로젝트 환경 - Windows, Android Studio, Svn  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
 기여도 - 100%
 
 주요 내용
@@ -279,9 +279,9 @@
 * 사용기술 : Volley, UniversialImageLoader, SQLite 등
 * 학생들이 스마트 무무로 학습한 결과 및 출결등에 대해서 학부모가 확인하고 관리 할 수 있는 앱
 
-프로젝트 환경 - Windows, Eclipse, Svn
-팀원 - 2인
-담당 업무 - 신규기능 개발, 유지보수
+프로젝트 환경 - Windows, Eclipse, Svn  
+팀원 - 2인  
+담당 업무 - 신규기능 개발, 유지보수  
 기여도 - 20%
 
 주요 내용
@@ -306,9 +306,9 @@
 * 사용기술 : Volley, UniversialImageLoader, SQLite 등
 * 종이 교재중 일부를 앱으로 심화학습, 단어 및 e-book 학습을 할 수 있도록 하는 앱
 
-프로젝트 환경 - Windows, Eclipse, Svn
-팀원 - 4인
-담당 업무 - 신규기능 개발, 유지보수
+프로젝트 환경 - Windows, Eclipse, Svn  
+팀원 - 4인  
+담당 업무 - 신규기능 개발, 유지보수  
 기여도 - 20%
 
 주요 내용
