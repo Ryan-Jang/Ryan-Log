@@ -15,12 +15,12 @@
 * 사용기술 : Koin, Coroutine, Glide, Retrofit2, Exoplayer 등
 * 신선한 식품을 산지에서 테이블까지 라는 모토로 농가 소개 및 농산물 판매 서비스
 
-프로젝트 환경 - Mac, Android Studio, Git, Jira, Confluence
-팀원 - 8인
-담당 업무 - 안드로이드 리드, 테크 리드, 애자일 코치
+프로젝트 환경 - Mac, Android Studio, Git, Jira, Confluence  
+팀원 - 8인  
+담당 업무 - 안드로이드 리드, 테크 리드, 애자일 코치  
 기여도 - 70%
 
-주요 내역
+주요 내용
 - 설계(MVVM + Clean Architecture)
 - 공통 코드, Base  UI, Core Business Logic 개발
 - 지역 카테고리 별 농가와 농가의 특산품을 소개하고 상품 링크로 이동시켜주는 리스트 개발(infinite scroll, collapsing layout)
@@ -41,12 +41,12 @@
 * 사용기술 : Glide, Reflection, Play-service 등
 * 신선한 식품을 산지에서 테이블까지 라는 모토로 농가 소개 및 농산물 판매 서비스
 
-프로젝트 환경 - Mac, Android Studio, Git, Jira, Confluence
-팀원 - 4인
-담당 업무 - 모듈화, 신규 기능 개발, 유지보수
-기여도 - 30%
+프로젝트 환경 - Mac, Android Studio, Git, Jira, Confluence  
+팀원 - 4인  
+담당 업무 - 모듈화, 신규 기능 개발, 유지보수  
+기여도 - 30%  
 
-주요내역
+주요 내용
 - 캐시버튼 SDK 유지보수
 
 
@@ -61,14 +61,14 @@
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 자사 서비스 내 공통 코드 라이브러리 및 신규 OVP 연동 라이브러리 개발
 
-프로젝트 환경 - Windows, Android Studio, Git
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
-기여도 - 100%
+프로젝트 환경 - Windows, Android Studio, Git  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
+기여도 - 100%  
 
 아키텍쳐 패턴 - MVC
 
-주요 내역
+주요 내용
 - OVP Framework AAR 개발 (OVP 서버 통신 및 비즈니스 로직, Player 및 UI(넷플릭스 향))
 - Player UI&UX 개선
 - DLiveUtils AAR 개발 (자사 스토어 서버 통신 및 비즈니스 로직, 앱 공통 코드)
@@ -86,12 +86,12 @@
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer, 3rd-party 본인인증 등
 * 자사 Android TV 셋탑용 유료영화 결제 및 시청
 
-프로젝트 환경 - Windows, Android Studio, Git
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
+프로젝트 환경 - Windows, Android Studio, Git  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
 기여도 - 100%
 
-주요 내역
+주요 내용
 - 시리즈 & 시즌 선택 메뉴 화면
 - 에피소드 선택 화면
 - 성인인증, 비밀번호 잠금 기능
@@ -107,14 +107,14 @@
 * 사용기술 : Glide, FCM, Retrofit2, Exoplayer 등
 * 자사 Android TV 셋탑용 맛있는 녀석들 컨텐츠 및 실시간 방송 시청
 
-프로젝트 환경 - Windows, Android Studio, Git
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
-기여도 - 100%
+프로젝트 환경 - Windows, Android Studio, Git  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
+기여도 - 100%  
 
 아키텍쳐 패턴 - MVC
 
-주요 내역
+주요 내용
 - 라이브 방송 푸시 알림
 - 시리즈, 에피소드 선택 화면
 
@@ -129,9 +129,9 @@
 * 사용기술 : Glide, FCM, Retrofit2, SQLite 등
 * 자사 Android TV 셋탑용 런처
 
-프로젝트 환경 - Windows, Android Studio, Git
-팀원 - 1인
-담당 업무 - 구조 설계, 개발
+프로젝트 환경 - Windows, Android Studio, Git  
+팀원 - 1인  
+담당 업무 - 구조 설계, 개발  
 기여도 - 100%
 
 아키텍쳐 패턴 - MVC
