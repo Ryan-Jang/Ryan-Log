@@ -254,7 +254,7 @@
 * 사용기술 : Volley, UniversialImageLoader, FCM, In-App purchase 등
 * 기존 채팅 서비스를 모바일 앱으로 사용하게 하기 위한 MVP 앱
 
-프로젝트 환경 - Windows, Android Studio, Svn  
+프로젝트 환경 - Windows, Android Studio, Mac, Xcode, Svn  
 팀원 - 1인  
 담당 업무 - 구조 설계, 개발  
 기여도 - 100%
